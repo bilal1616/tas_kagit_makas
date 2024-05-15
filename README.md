@@ -10,7 +10,7 @@ Flutter ile geliştirilmiş provider mimarisi kullanılarak state yönetimleri s
 
 <br/>
 <div class="row">
-<img src="assets/readme/1.png" height="350">
-<img src="assets/readme/2.png" height="350">
-<img src="assets/readme/3.png" height="350">
+<img src="assets/1.png" height="350">
+<img src="assets/2.png" height="350">
+<img src="assets/3.png" height="350">
 </div>
